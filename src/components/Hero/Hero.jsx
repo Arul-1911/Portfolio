@@ -15,7 +15,7 @@ function Hero() {
           href="https://drive.google.com/file/d/1du2swniJRkyxORp2UMRkH6udeaSGquiv/view?usp=sharing" target="_blank" rel="noreferrer"
           className={styles.contactBtn}
         >
-          Download CV
+         Resume
         </a>
       </div>
       <img
