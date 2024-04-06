@@ -34,6 +34,10 @@
   text-decoration: none;
 }
 
+.menubtn{
+  display: none;
+}
+
 @media screen and (max-width: 830px) {
   .navbar {
     flex-direction: column;
@@ -62,17 +66,16 @@
     align-items: center;
     gap: 13px;
     border-radius: 10px;
-    background-color: rgb(25, 55, 109);
+    background-color: rgb(1, 6, 15);
     background: linear-gradient(
       0deg,
-      rgba(25, 55, 109, 0.2) 0%,
-      rgba(25, 55, 109, 1) 100%
+      rgb(9, 9, 9) 100%
     );
-    padding: 24px 34px;
+    padding: 24px 74px;
   }
 
   .menuOpen {
     display: flex;
-    z-index: 1;
+    z-index: 10;
   }
 }
