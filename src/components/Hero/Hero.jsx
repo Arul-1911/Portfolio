@@ -6,16 +6,20 @@ function Hero() {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h3 className={styles.title}>I'm Arul</h3>
+        <h3 className={styles.title} data-aos="fade-right">
+          I'm Arul
+        </h3>
         <p className={styles.description}>
           As a passionate MERN stack developer, I am excited to showcase my
           skills and projects to you
         </p>
         <a
-          href="https://drive.google.com/file/d/1du2swniJRkyxORp2UMRkH6udeaSGquiv/view?usp=sharing" target="_blank" rel="noreferrer"
+          href="https://drive.google.com/file/d/1du2swniJRkyxORp2UMRkH6udeaSGquiv/view?usp=sharing"
+          target="_blank"
+          rel="noreferrer"
           className={styles.contactBtn}
         >
-         Resume
+          Resume
         </a>
       </div>
       <img

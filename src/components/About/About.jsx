@@ -11,8 +11,9 @@ function About() {
           src={imageUrl("about/about-image.jpeg")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
+          data-aos="fade-right"
         />
-        <ul className={styles.aboutItems}>
+        <ul className={styles.aboutItems} data-aos="fade-left">
           <li className={styles.aboutItem}>
             <img src={imageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>

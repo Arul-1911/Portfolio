@@ -5,8 +5,17 @@ import About from "./components/About/About";
 import Experience from "./components/Experience/Experience";
 import Project from "./components/projects/Project";
 import Contact from "./components/Contact/Contact";
+import AOS from "aos";
+import "aos/dist/aos.css";
+import  { useEffect } from "react";
 
 function App() {
+   useEffect(() => {
+     AOS.init({
+       duration: 800,
+      //  once: true,
+     });
+   }, []);
   return (
     <>
       <h1 className={styles.App}>
