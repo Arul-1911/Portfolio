@@ -34,11 +34,9 @@ function Project() {
                 </ul>
                 <div className={styles.links}>
                   <a href={project.demo} target='_blank' className={styles.link}>
-                    Demo
+                   Live Demo
                   </a>
-                  <a href={project.source} className={styles.link} target='_blank'>
-                    Source
-                  </a>
+                
                 </div>
               </div>
             );

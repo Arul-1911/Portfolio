@@ -1,18 +1,18 @@
 [
   {
-    "title": "Project A",
+    "title": "Flight Ticket Booking App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "Booking Application with Payment gateway.",
+    "skills": ["React", "Express", "Node", "Razorpay"],
+    "demo": "https://kiwi-flight-booking.vercel.app/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Quiz App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "description": "project made to learn the CRUD and Redux.",
+    "skills": ["React", "Express", "Node", "Redux"],
+    "demo": "https://mern-quiz-app-frontend.vercel.app/",
     "source": "https://www.github.com"
   },
   {
