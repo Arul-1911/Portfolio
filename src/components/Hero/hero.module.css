@@ -114,6 +114,8 @@
   .title{
     font-size: 45px;
     margin-top: 20px;
+    display: block;
+    text-align: center;
   }
 
   .description{

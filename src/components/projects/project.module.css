@@ -93,3 +93,9 @@
    background: var(--color-primary);
    padding: 1px 22px;
 }
+
+@media screen and (max-width: 830px) {
+   .cardContainer{
+      margin-right: 40px;
+   }
+}
