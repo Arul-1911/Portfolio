@@ -6,8 +6,8 @@ function Hero() {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h3 className={styles.title} data-aos="fade-right">
-          I'm Arul
+        <h3 className={styles.title} data-aos="flip-down">
+          I'm Arul Praveen
         </h3>
         <p className={styles.description}>
           As a passionate MERN stack developer, I am excited to showcase my

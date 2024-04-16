@@ -37,10 +37,9 @@ function About() {
           <li className={styles.aboutItem}>
             <img src={imageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Full Stack Developer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have worked both Front-end and Backe-end at a Sametime as well
               </p>
             </div>
           </li>

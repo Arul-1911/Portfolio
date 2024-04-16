@@ -11,8 +11,12 @@
    padding: 58px 10%;
    gap: 10px;
    flex-wrap: wrap;
+   
 }
 
+img{
+   cursor: pointer;
+}
 
 .text h2{
    font-size: 80px;

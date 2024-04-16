@@ -10,7 +10,12 @@ function Project() {
       <div className={styles.Projects}>{
          projects.map((project,id)=> {
             return (
-              <div key={id} className={styles.cardContainer}>
+              <div
+                key={id}
+                className={styles.cardContainer}
+                data-aos="flip-left"
+                data-aos-easing="ease-out-cubic"
+              >
                 <img
                   src={imageUrl(project.imageSrc)}
                   alt={project.title}
@@ -28,10 +33,10 @@ function Project() {
                   })}
                 </ul>
                 <div className={styles.links}>
-                  <a href={project.demo} className={styles.link}>
+                  <a href={project.demo} target='_blank' className={styles.link}>
                     Demo
                   </a>
-                  <a href={project.source} className={styles.link}>
+                  <a href={project.source} className={styles.link} target='_blank'>
                     Source
                   </a>
                 </div>
