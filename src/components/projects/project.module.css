@@ -39,11 +39,13 @@
    max-width: 345px;
    margin-top: 20px;
    margin-left: 40px;
+   height: 550px;
 }
 
 
 .cardImage{
    margin-bottom: 26px;
+   border-radius: 8px;
 }
 
 .cardTitle{

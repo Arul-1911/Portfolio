@@ -1,7 +1,7 @@
 [
   {
     "title": "Flight Ticket Booking App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/flight-ticket-booking.png",
     "description": "Booking Application with Payment gateway.",
     "skills": ["React", "Express", "Node", "Razorpay"],
     "demo": "https://kiwi-flight-booking.vercel.app/",
@@ -9,34 +9,42 @@
   },
   {
     "title": "Quiz App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/quiz-app.png",
     "description": "project made to learn the CRUD and Redux.",
     "skills": ["React", "Express", "Node", "Redux"],
     "demo": "https://mern-quiz-app-frontend.vercel.app/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "SPA Blog",
+    "imageSrc": "projects/guvi-blog.png",
+    "description": "Project made to learn Single page application.",
+    "skills": ["React","React-router"],
+    "demo": "https://moonlit-baklava-01725c.netlify.app/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project D",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Restaurant Website",
+    "imageSrc": "projects/sushiman.png",
+    "description": "This is a project made to learn With Animations.",
+    "skills": ["Html", "Css", "Animation", "Js"],
+    "demo": "https://sushiman-six.vercel.app/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project E",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Current Weather",
+    "imageSrc": "projects/weather.png",
+    "description": "Display current weather for any country using Api's",
+    "skills": ["Javascript", "Api", "Bootstrap","CDN"],
+    "demo": "https://marvelous-profiterole-84091a.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "E-commerce App",
+    "imageSrc": "projects/E-commerce.png",
+    "description": "E-commerce App with Cart Functionality",
+    "skills": ["React", "Api", "Bootstrap","context"],
+    "demo": "https://deluxe-tapioca-a2ce8c.netlify.app/",
     "source": "https://www.github.com"
   }
 ]

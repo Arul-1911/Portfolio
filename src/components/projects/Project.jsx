@@ -22,6 +22,7 @@ function Project() {
                   className={styles.cardImage}
                 />
                 <h3 className={styles.cardTitle}>{project.title}</h3>
+                <hr style={{marginBottom:"5px", marginTop:"5px"}}/>
                 <p className={styles.cardDescription}>{project.description}</p>
                 <ul className={styles.skills}>
                   {project.skills.map((skill, id) => {
