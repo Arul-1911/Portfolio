@@ -16,11 +16,11 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "SPA Blog",
-    "imageSrc": "projects/guvi-blog.png",
+    "title": "Blogify",
+    "imageSrc": "projects/blogify.png",
     "description": "Project made to learn Single page application.",
-    "skills": ["React","React-router"],
-    "demo": "https://moonlit-baklava-01725c.netlify.app/",
+    "skills": ["React","Node","Mongodb","Express"],
+    "demo": "https://blog-app-mern-client-six.vercel.app/",
     "source": "https://www.github.com"
   },
   {
