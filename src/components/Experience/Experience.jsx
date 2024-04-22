@@ -6,10 +6,10 @@ import { imageUrl } from '../../utils';
 
 function Experience() {
   return (
-    <section className={styles.container} id="experience">
-      <h2 className={styles.title}>Experience</h2>
+    <section className={styles.container} id="skills">
+      <h2 className={styles.title}>Skills</h2>
       <div className={styles.content}>
-        <div className={styles.skills}>
+        <div className={styles.skills} data-aos="fade-right">
           {skills.map((skill, id) => {
             return (
               <div key={id} className={styles.skill}>

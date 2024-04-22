@@ -1,22 +1,16 @@
 [
-  {
-    "role": "Learner",
-    "organisation": "Guvi",
-    "startDate": "Sep, 2023",
-    "endDate": "Nov, 2023",
-    "experiences": ["Building Ui components", "Building backend services","MERN Stack Development"],
-    "imageSrc": "history/guvi-logo.jpg"
-  },
+ 
   {
     "role": "Technical Intern",
     "organisation": "Ellucian",
     "startDate": "Jan, 2023",
     "endDate": "Apr, 2023",
     "experiences": [
-      "Worked on Full Stack Project",
-      "worked on oracle database",
+      "Completed a  Full Stack Project",
+      "worked on sql database",
       "Participated in Hackathon"
     ],
     "imageSrc": "history/ellucian-img.jpg"
   }
 ]
+
