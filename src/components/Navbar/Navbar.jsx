@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav className={styles.navbar}>
       <a href="/" className={styles.title}>
-        Portfolio
+        Hello World 👋🏻
       </a>
       <div className={styles.menu}>
         <img
