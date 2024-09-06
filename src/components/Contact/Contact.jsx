@@ -1,15 +1,15 @@
-import React from 'react';
-import styles from './contact.module.css';
-import { imageUrl } from '../../utils';
+import React from "react";
+import styles from "./contact.module.css";
+import { imageUrl } from "../../utils";
 
 function Contact() {
   return (
     <footer id="contact" className={styles.container}>
-      <div className={styles.text}>
+      <div className={styles.text} data-aos="zoom-in">
         <h2>Contact</h2>
         <p>Feel free to contact</p>
       </div>
-      <ul className={styles.links}>
+      <ul className={styles.links} data-aos="zoom-in">
         <li className={styles.link}>
           <img src={imageUrl("contact/emailIcon.png")} alt="email-icon" />
           <a href="mailto:arulpraveen19112002@gmail.com" target="_blank">
@@ -38,4 +38,4 @@ function Contact() {
   );
 }
 
-export default Contact
+export default Contact;

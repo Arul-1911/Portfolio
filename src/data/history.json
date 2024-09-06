@@ -1,5 +1,17 @@
 [
- 
+  {
+    "role": "SDE Intern",
+    "organisation": "Naduven Technology",
+    "startDate": "Jun, 2024",
+    "endDate": "Sep, 2024",
+    "experiences": [
+      "Worked on Various Live Projects",
+      "Integrated with GraphQL Api",
+      "Fixing Bugs and Ui Changes",
+      "Written Code with React.ts"
+    ],
+    "imageSrc": ""
+  },
   {
     "role": "Technical Intern",
     "organisation": "Ellucian",
@@ -7,10 +19,9 @@
     "endDate": "Apr, 2023",
     "experiences": [
       "Completed a  Full Stack Project",
-      "worked on sql database",
+      "Worked on sql database",
       "Participated in Hackathon"
     ],
     "imageSrc": "history/ellucian-img.jpg"
   }
 ]
-

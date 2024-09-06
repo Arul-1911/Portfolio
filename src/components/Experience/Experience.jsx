@@ -1,15 +1,15 @@
-import React from 'react';
-import styles from './experience.module.css';
-import skills from '../../data/skills.json';
-import experience from '../../data/history.json';
-import { imageUrl } from '../../utils';
+import React from "react";
+import styles from "./experience.module.css";
+import skills from "../../data/skills.json";
+import experience from "../../data/history.json";
+import { imageUrl } from "../../utils";
 
 function Experience() {
   return (
     <section className={styles.container} id="skills">
       <h2 className={styles.title}>Skills</h2>
       <div className={styles.content}>
-        <div className={styles.skills} data-aos="fade-right">
+        <div className={styles.skills} data-aos="zoom-in">
           {skills.map((skill, id) => {
             return (
               <div key={id} className={styles.skill}>
@@ -43,4 +43,4 @@ function Experience() {
   );
 }
 
-export default Experience
+export default Experience;

@@ -5,7 +5,7 @@ import { imageUrl } from "../../utils";
 function Navbar() {
   const [open, setOpen] = useState(false);
   return (
-    <nav className={styles.navbar}>
+    <nav className={styles.navbar} data-aos="zoom-in">
       <a href="/" className={styles.title}>
         Hello World 👋🏻
       </a>
