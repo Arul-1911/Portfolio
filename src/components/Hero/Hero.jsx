@@ -14,7 +14,7 @@ function Hero() {
           skills and projects to you
         </p>
         <a
-          href="https://drive.google.com/file/d/1XMwpRJ1KM-gAG_xfTjW4SDZTl9pWCwvv/view?usp=sharing"
+          href="https://drive.google.com/file/d/1uPAt0mSDNc0ZJml3Wyvet8m9sQiz27m4/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
           className={styles.contactBtn}
